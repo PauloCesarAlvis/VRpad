@@ -1,0 +1,268 @@
+fileFormatVersion: 2
+guid: cc768ef953c5173479db7ae246f5b211
+timeCreated: 1489973018
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: centro
+    100002: cuadricula
+    100004: eje_final_xy
+    100006: eje_final_yz
+    100008: eje_final_zx
+    100010: ejeX
+    100012: ejeY
+    100014: ejeZ
+    100016: //RootNode
+    100018: objeto_final
+    100020: paraboloide_sobrante
+    100022: plano
+    100024: semi_circulo2
+    100026: semicilindro
+    100028: x_
+    100030: y_
+    100032: z_
+<<<<<<< HEAD
+    100034: Z_Function
+    100036: Z_Function_002
+=======
+<<<<<<< HEAD
+    100034: Z_Function
+    100036: Z_Function_002
+=======
+>>>>>>> origin/master
+>>>>>>> origin/master
+    400000: centro
+    400002: cuadricula
+    400004: eje_final_xy
+    400006: eje_final_yz
+    400008: eje_final_zx
+    400010: ejeX
+    400012: ejeY
+    400014: ejeZ
+    400016: //RootNode
+    400018: objeto_final
+    400020: paraboloide_sobrante
+    400022: plano
+    400024: semi_circulo2
+    400026: semicilindro
+    400028: x_
+    400030: y_
+    400032: z_
+<<<<<<< HEAD
+    400034: Z_Function
+    400036: Z_Function_002
+=======
+<<<<<<< HEAD
+    400034: Z_Function
+    400036: Z_Function_002
+=======
+>>>>>>> origin/master
+>>>>>>> origin/master
+    2300000: centro
+    2300002: cuadricula
+    2300004: eje_final_xy
+    2300006: eje_final_yz
+    2300008: eje_final_zx
+    2300010: ejeX
+    2300012: ejeY
+    2300014: ejeZ
+    2300016: objeto_final
+    2300018: paraboloide_sobrante
+    2300020: plano
+    2300022: semi_circulo2
+    2300024: semicilindro
+    2300026: x_
+    2300028: y_
+    2300030: z_
+<<<<<<< HEAD
+    2300032: Z_Function
+    2300034: Z_Function_002
+=======
+<<<<<<< HEAD
+    2300032: Z_Function
+    2300034: Z_Function_002
+=======
+>>>>>>> origin/master
+>>>>>>> origin/master
+    3300000: centro
+    3300002: cuadricula
+    3300004: eje_final_xy
+    3300006: eje_final_yz
+    3300008: eje_final_zx
+    3300010: ejeX
+    3300012: ejeY
+    3300014: ejeZ
+    3300016: objeto_final
+    3300018: paraboloide_sobrante
+    3300020: plano
+    3300022: semi_circulo2
+    3300024: semicilindro
+    3300026: x_
+    3300028: y_
+    3300030: z_
+<<<<<<< HEAD
+    3300032: Z_Function
+    3300034: Z_Function_002
+=======
+<<<<<<< HEAD
+    3300032: Z_Function
+    3300034: Z_Function_002
+=======
+>>>>>>> origin/master
+>>>>>>> origin/master
+    4300000: plano
+    4300002: cuadricula
+    4300004: eje_final_xy
+    4300006: eje_final_zx
+    4300008: eje_final_yz
+    4300010: semi_circulo2
+    4300012: semicilindro
+    4300014: centro
+    4300016: ejeX
+    4300018: ejeY
+    4300020: ejeZ
+    4300022: x_
+    4300024: y_
+    4300026: z_
+    4300028: objeto_final
+    4300030: paraboloide_sobrante
+<<<<<<< HEAD
+    4300032: Z_Function
+    4300034: Z_Function_002
+=======
+<<<<<<< HEAD
+    4300032: Z_Function
+    4300034: Z_Function_002
+=======
+>>>>>>> origin/master
+>>>>>>> origin/master
+    7400000: Default Take
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 399
+      wrapMode: 4
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: centro
+        weight: 1
+      - path: cuadricula
+        weight: 1
+      - path: eje_final_xy
+        weight: 1
+      - path: eje_final_yz
+        weight: 1
+      - path: eje_final_zx
+        weight: 1
+      - path: ejeX
+        weight: 1
+      - path: ejeY
+        weight: 1
+      - path: ejeZ
+        weight: 1
+      - path: objeto_final
+        weight: 1
+      - path: paraboloide_sobrante
+        weight: 1
+      - path: plano
+        weight: 1
+      - path: semi_circulo2
+        weight: 1
+      - path: semicilindro
+        weight: 1
+      - path: x_
+        weight: 1
+      - path: y_
+        weight: 1
+      - path: z_
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

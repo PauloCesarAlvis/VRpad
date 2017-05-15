@@ -1,0 +1,239 @@
+fileFormatVersion: 2
+guid: 4f7f90513233451478eb0c3e9f2efd5d
+timeCreated: 1494390749
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: cilindro
+    100002: ec_cilindro
+    100004: ec_paraboloide
+    100006: //RootNode
+    100008: ejeX
+    100010: ejeXY
+    100012: ejeY
+    100014: ejeZ
+    100016: ejeZX
+    100018: ejeZY
+    100020: paraboloide
+    100022: Plane
+    100024: proyeccionXY
+    100026: proyeccionZX
+    100028: proyeccionZY
+    100030: reja
+    100032: solido_final
+    100034: x_
+    100036: y_
+    100038: z_
+    400000: cilindro
+    400002: ec_cilindro
+    400004: ec_paraboloide
+    400006: //RootNode
+    400008: ejeX
+    400010: ejeXY
+    400012: ejeY
+    400014: ejeZ
+    400016: ejeZX
+    400018: ejeZY
+    400020: paraboloide
+    400022: Plane
+    400024: proyeccionXY
+    400026: proyeccionZX
+    400028: proyeccionZY
+    400030: reja
+    400032: solido_final
+    400034: x_
+    400036: y_
+    400038: z_
+    2300000: cilindro
+    2300002: ec_cilindro
+    2300004: ec_paraboloide
+    2300006: ejeX
+    2300008: ejeXY
+    2300010: ejeY
+    2300012: ejeZ
+    2300014: ejeZX
+    2300016: ejeZY
+    2300018: paraboloide
+    2300020: Plane
+    2300022: proyeccionXY
+    2300024: proyeccionZX
+    2300026: proyeccionZY
+    2300028: reja
+    2300030: solido_final
+    2300032: x_
+    2300034: y_
+    2300036: z_
+    3300000: cilindro
+    3300002: ec_cilindro
+    3300004: ec_paraboloide
+    3300006: ejeX
+    3300008: ejeXY
+    3300010: ejeY
+    3300012: ejeZ
+    3300014: ejeZX
+    3300016: ejeZY
+    3300018: paraboloide
+    3300020: Plane
+    3300022: proyeccionXY
+    3300024: proyeccionZX
+    3300026: proyeccionZY
+    3300028: reja
+    3300030: solido_final
+    3300032: x_
+    3300034: y_
+    3300036: z_
+    4300000: Plane
+    4300002: ec_paraboloide
+    4300004: ec_cilindro
+    4300006: cilindro
+    4300008: paraboloide
+    4300010: reja
+    4300012: y_
+    4300014: x_
+    4300016: z_
+    4300018: ejeY
+    4300020: ejeX
+    4300022: ejeZ
+    4300024: solido_final
+    4300026: ejeXY
+    4300028: ejeZX
+    4300030: ejeZY
+    4300032: proyeccionXY
+    4300034: proyeccionZX
+    4300036: proyeccionZY
+    7400000: Default Take
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 499
+      wrapMode: 4
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: cilindro
+        weight: 1
+      - path: ec_cilindro
+        weight: 1
+      - path: ec_paraboloide
+        weight: 1
+      - path: ejeX
+        weight: 1
+      - path: ejeXY
+        weight: 1
+      - path: ejeY
+        weight: 1
+      - path: ejeZ
+        weight: 1
+      - path: ejeZX
+        weight: 1
+      - path: ejeZY
+        weight: 1
+      - path: paraboloide
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: proyeccionXY
+        weight: 1
+      - path: proyeccionZX
+        weight: 1
+      - path: proyeccionZY
+        weight: 1
+      - path: reja
+        weight: 1
+      - path: solido_final
+        weight: 1
+      - path: x_
+        weight: 1
+      - path: y_
+        weight: 1
+      - path: z_
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

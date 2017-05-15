@@ -1,0 +1,414 @@
+fileFormatVersion: 2
+guid: 5c3530805b9070a4d86d87d4f9f2ddb3
+timeCreated: 1490045079
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Y_Function_001
+    100004: Y_Function_002
+    100006: Y_Function_003
+    100008: Y_Function_004
+    100010: Y_Function_005
+    100012: Y_Function_006
+    100014: Y_Function_007
+    100016: Y_Function_008
+    100018: Y_Function_009
+    100020: Y_Function_010
+    100022: Y_Function_011
+    100024: Y_Function_012
+    100026: Y_Function_013
+    100028: Y_Function_014
+    100030: Y_Function_015
+    100032: Y_Function_016
+    100034: Y_Function_017
+    100036: Z_Function_001
+    100038: Z_Function_002
+    100040: Z_Function_003
+    100042: Z_Function_004
+    100044: Z_Function_005
+    100046: Z_Function_006
+    100048: Z_Function_007
+    100050: Z_Function_008
+    100052: Z_Function_009
+    100054: Z_Function_010
+    100056: Z_Function_011
+    100058: Z_Function_012
+    100060: Z_Function_013
+    100062: Z_Function_014
+    100064: Z_Function_015
+    100066: Z_Function_016
+    100068: Z_Function_017
+    100070: centro
+    100072: ec_silla
+    100074: ec_x_2
+    100076: ejeX
+    100078: ejeY
+    100080: ejeZ
+    100082: ex_y_2
+    100084: planoXY
+    100086: regla
+    100088: silla_final
+    400000: //RootNode
+    400002: Y_Function_001
+    400004: Y_Function_002
+    400006: Y_Function_003
+    400008: Y_Function_004
+    400010: Y_Function_005
+    400012: Y_Function_006
+    400014: Y_Function_007
+    400016: Y_Function_008
+    400018: Y_Function_009
+    400020: Y_Function_010
+    400022: Y_Function_011
+    400024: Y_Function_012
+    400026: Y_Function_013
+    400028: Y_Function_014
+    400030: Y_Function_015
+    400032: Y_Function_016
+    400034: Y_Function_017
+    400036: Z_Function_001
+    400038: Z_Function_002
+    400040: Z_Function_003
+    400042: Z_Function_004
+    400044: Z_Function_005
+    400046: Z_Function_006
+    400048: Z_Function_007
+    400050: Z_Function_008
+    400052: Z_Function_009
+    400054: Z_Function_010
+    400056: Z_Function_011
+    400058: Z_Function_012
+    400060: Z_Function_013
+    400062: Z_Function_014
+    400064: Z_Function_015
+    400066: Z_Function_016
+    400068: Z_Function_017
+    400070: centro
+    400072: ec_silla
+    400074: ec_x_2
+    400076: ejeX
+    400078: ejeY
+    400080: ejeZ
+    400082: ex_y_2
+    400084: planoXY
+    400086: regla
+    400088: silla_final
+    2300000: Y_Function_001
+    2300002: Y_Function_002
+    2300004: Y_Function_003
+    2300006: Y_Function_004
+    2300008: Y_Function_005
+    2300010: Y_Function_006
+    2300012: Y_Function_007
+    2300014: Y_Function_008
+    2300016: Y_Function_009
+    2300018: Y_Function_010
+    2300020: Y_Function_011
+    2300022: Y_Function_012
+    2300024: Y_Function_013
+    2300026: Y_Function_014
+    2300028: Y_Function_015
+    2300030: Y_Function_016
+    2300032: Y_Function_017
+    2300034: Z_Function_001
+    2300036: Z_Function_002
+    2300038: Z_Function_003
+    2300040: Z_Function_004
+    2300042: Z_Function_005
+    2300044: Z_Function_006
+    2300046: Z_Function_007
+    2300048: Z_Function_008
+    2300050: Z_Function_009
+    2300052: Z_Function_010
+    2300054: Z_Function_011
+    2300056: Z_Function_012
+    2300058: Z_Function_013
+    2300060: Z_Function_014
+    2300062: Z_Function_015
+    2300064: Z_Function_016
+    2300066: Z_Function_017
+    2300068: centro
+    2300070: ec_silla
+    2300072: ec_x_2
+    2300074: ejeX
+    2300076: ejeY
+    2300078: ejeZ
+    2300080: ex_y_2
+    2300082: planoXY
+    2300084: regla
+    2300086: silla_final
+    3300000: Y_Function_001
+    3300002: Y_Function_002
+    3300004: Y_Function_003
+    3300006: Y_Function_004
+    3300008: Y_Function_005
+    3300010: Y_Function_006
+    3300012: Y_Function_007
+    3300014: Y_Function_008
+    3300016: Y_Function_009
+    3300018: Y_Function_010
+    3300020: Y_Function_011
+    3300022: Y_Function_012
+    3300024: Y_Function_013
+    3300026: Y_Function_014
+    3300028: Y_Function_015
+    3300030: Y_Function_016
+    3300032: Y_Function_017
+    3300034: Z_Function_001
+    3300036: Z_Function_002
+    3300038: Z_Function_003
+    3300040: Z_Function_004
+    3300042: Z_Function_005
+    3300044: Z_Function_006
+    3300046: Z_Function_007
+    3300048: Z_Function_008
+    3300050: Z_Function_009
+    3300052: Z_Function_010
+    3300054: Z_Function_011
+    3300056: Z_Function_012
+    3300058: Z_Function_013
+    3300060: Z_Function_014
+    3300062: Z_Function_015
+    3300064: Z_Function_016
+    3300066: Z_Function_017
+    3300068: centro
+    3300070: ec_silla
+    3300072: ec_x_2
+    3300074: ejeX
+    3300076: ejeY
+    3300078: ejeZ
+    3300080: ex_y_2
+    3300082: planoXY
+    3300084: regla
+    3300086: silla_final
+    4300000: Y_Function_016
+    4300002: Y_Function_015
+    4300004: Y_Function_014
+    4300006: Y_Function_013
+    4300008: Y_Function_012
+    4300010: Y_Function_011
+    4300012: Y_Function_010
+    4300014: Y_Function_009
+    4300016: Y_Function_008
+    4300018: Y_Function_007
+    4300020: Y_Function_006
+    4300022: Y_Function_005
+    4300024: Y_Function_004
+    4300026: Y_Function_003
+    4300028: Y_Function_002
+    4300030: Y_Function_001
+    4300032: Z_Function_017
+    4300034: Z_Function_016
+    4300036: Z_Function_015
+    4300038: Z_Function_014
+    4300040: Z_Function_013
+    4300042: Z_Function_012
+    4300044: Z_Function_011
+    4300046: Z_Function_010
+    4300048: Z_Function_009
+    4300050: Z_Function_008
+    4300052: Z_Function_007
+    4300054: Z_Function_006
+    4300056: Z_Function_005
+    4300058: Z_Function_004
+    4300060: Z_Function_003
+    4300062: Z_Function_002
+    4300064: Z_Function_001
+    4300066: Y_Function_017
+    4300068: ec_silla
+    4300070: ex_y_2
+    4300072: ec_x_2
+    4300074: silla_final
+    4300076: centro
+    4300078: ejeX
+    4300080: ejeY
+    4300082: ejeZ
+    4300084: planoXY
+    4300086: regla
+    7400000: Default Take
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 877
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: centro
+        weight: 1
+      - path: ec_silla
+        weight: 1
+      - path: ec_x_2
+        weight: 1
+      - path: ejeX
+        weight: 1
+      - path: ejeY
+        weight: 1
+      - path: ejeZ
+        weight: 1
+      - path: ex_y_2
+        weight: 1
+      - path: planoXY
+        weight: 1
+      - path: regla
+        weight: 1
+      - path: silla_final
+        weight: 1
+      - path: Y_Function_001
+        weight: 1
+      - path: Y_Function_002
+        weight: 1
+      - path: Y_Function_003
+        weight: 1
+      - path: Y_Function_004
+        weight: 1
+      - path: Y_Function_005
+        weight: 1
+      - path: Y_Function_006
+        weight: 1
+      - path: Y_Function_007
+        weight: 1
+      - path: Y_Function_008
+        weight: 1
+      - path: Y_Function_009
+        weight: 1
+      - path: Y_Function_010
+        weight: 1
+      - path: Y_Function_011
+        weight: 1
+      - path: Y_Function_012
+        weight: 1
+      - path: Y_Function_013
+        weight: 1
+      - path: Y_Function_014
+        weight: 1
+      - path: Y_Function_015
+        weight: 1
+      - path: Y_Function_016
+        weight: 1
+      - path: Y_Function_017
+        weight: 1
+      - path: Z_Function_001
+        weight: 1
+      - path: Z_Function_002
+        weight: 1
+      - path: Z_Function_003
+        weight: 1
+      - path: Z_Function_004
+        weight: 1
+      - path: Z_Function_005
+        weight: 1
+      - path: Z_Function_006
+        weight: 1
+      - path: Z_Function_007
+        weight: 1
+      - path: Z_Function_008
+        weight: 1
+      - path: Z_Function_009
+        weight: 1
+      - path: Z_Function_010
+        weight: 1
+      - path: Z_Function_011
+        weight: 1
+      - path: Z_Function_012
+        weight: 1
+      - path: Z_Function_013
+        weight: 1
+      - path: Z_Function_014
+        weight: 1
+      - path: Z_Function_015
+        weight: 1
+      - path: Z_Function_016
+        weight: 1
+      - path: Z_Function_017
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

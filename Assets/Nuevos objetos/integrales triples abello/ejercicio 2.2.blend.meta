@@ -1,0 +1,225 @@
+fileFormatVersion: 2
+guid: b89e39b6150821b47a934054e93cb19c
+timeCreated: 1494389760
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ec
+    100002: //RootNode
+    100004: ejeX
+    100006: ejeXY
+    100008: ejeY
+    100010: ejeZ
+    100012: ejeZX
+    100014: ejeZY
+    100016: esfera
+    100018: esfera_final
+    100020: Plane
+    100022: proyeccionXY
+    100024: proyeccionZX
+    100026: proyeccionZY
+    100028: reja
+    100030: x_
+    100032: y_
+    100034: z_
+    400000: ec
+    400002: //RootNode
+    400004: ejeX
+    400006: ejeXY
+    400008: ejeY
+    400010: ejeZ
+    400012: ejeZX
+    400014: ejeZY
+    400016: esfera
+    400018: esfera_final
+    400020: Plane
+    400022: proyeccionXY
+    400024: proyeccionZX
+    400026: proyeccionZY
+    400028: reja
+    400030: x_
+    400032: y_
+    400034: z_
+    2300000: ec
+    2300002: ejeX
+    2300004: ejeXY
+    2300006: ejeY
+    2300008: ejeZ
+    2300010: ejeZX
+    2300012: ejeZY
+    2300014: esfera
+    2300016: esfera_final
+    2300018: Plane
+    2300020: proyeccionXY
+    2300022: proyeccionZX
+    2300024: proyeccionZY
+    2300026: reja
+    2300028: x_
+    2300030: y_
+    2300032: z_
+    3300000: ec
+    3300002: ejeX
+    3300004: ejeXY
+    3300006: ejeY
+    3300008: ejeZ
+    3300010: ejeZX
+    3300012: ejeZY
+    3300014: esfera
+    3300016: esfera_final
+    3300018: Plane
+    3300020: proyeccionXY
+    3300022: proyeccionZX
+    3300024: proyeccionZY
+    3300026: reja
+    3300028: x_
+    3300030: y_
+    3300032: z_
+    4300000: Plane
+    4300002: proyeccionXY
+    4300004: proyeccionZY
+    4300006: proyeccionZX
+    4300008: ec
+    4300010: esfera
+    4300012: esfera_final
+    4300014: reja
+    4300016: y_
+    4300018: x_
+    4300020: z_
+    4300022: ejeY
+    4300024: ejeX
+    4300026: ejeZ
+    4300028: ejeXY
+    4300030: ejeZX
+    4300032: ejeZY
+    7400000: Default Take
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 309
+      wrapMode: 4
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ec
+        weight: 1
+      - path: ejeX
+        weight: 1
+      - path: ejeXY
+        weight: 1
+      - path: ejeY
+        weight: 1
+      - path: ejeZ
+        weight: 1
+      - path: ejeZX
+        weight: 1
+      - path: ejeZY
+        weight: 1
+      - path: esfera
+        weight: 1
+      - path: esfera_final
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: proyeccionXY
+        weight: 1
+      - path: proyeccionZX
+        weight: 1
+      - path: proyeccionZY
+        weight: 1
+      - path: reja
+        weight: 1
+      - path: x_
+        weight: 1
+      - path: y_
+        weight: 1
+      - path: z_
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

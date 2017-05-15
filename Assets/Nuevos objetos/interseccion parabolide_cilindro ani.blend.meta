@@ -1,0 +1,251 @@
+fileFormatVersion: 2
+guid: bbd670c75a8cef540976697585156b6c
+timeCreated: 1489969834
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: centro
+    100002: cilindro_final
+    100004: cilindro_sobrante
+    100006: ejeX
+    100008: ejeX_001
+    100010: ejeY_001
+    100012: ejeZ
+    100014: //RootNode
+    100016: planoXY
+    100018: regla
+    100020: Text
+    100022: Text_001
+    100024: x_
+    100026: y_
+    100028: z_
+    100030: Z_Function
+<<<<<<< HEAD
+    100032: ec_cilindro
+    100034: ec_paraboloide
+    100036: ejeY
+    100038: paraboloide
+    100040: plano
+=======
+>>>>>>> origin/master
+    400000: centro
+    400002: cilindro_final
+    400004: cilindro_sobrante
+    400006: ejeX
+    400008: ejeX_001
+    400010: ejeY_001
+    400012: ejeZ
+    400014: //RootNode
+    400016: planoXY
+    400018: regla
+    400020: Text
+    400022: Text_001
+    400024: x_
+    400026: y_
+    400028: z_
+    400030: Z_Function
+<<<<<<< HEAD
+    400032: ec_cilindro
+    400034: ec_paraboloide
+    400036: ejeY
+    400038: paraboloide
+    400040: plano
+=======
+>>>>>>> origin/master
+    2300000: centro
+    2300002: cilindro_final
+    2300004: cilindro_sobrante
+    2300006: ejeX
+    2300008: ejeX_001
+    2300010: ejeY_001
+    2300012: ejeZ
+    2300014: planoXY
+    2300016: regla
+    2300018: Text
+    2300020: Text_001
+    2300022: x_
+    2300024: y_
+    2300026: z_
+    2300028: Z_Function
+<<<<<<< HEAD
+    2300030: ec_cilindro
+    2300032: ec_paraboloide
+    2300034: ejeY
+    2300036: paraboloide
+    2300038: plano
+=======
+>>>>>>> origin/master
+    3300000: centro
+    3300002: cilindro_final
+    3300004: cilindro_sobrante
+    3300006: ejeX
+    3300008: ejeX_001
+    3300010: ejeY_001
+    3300012: ejeZ
+    3300014: planoXY
+    3300016: regla
+    3300018: Text
+    3300020: Text_001
+    3300022: x_
+    3300024: y_
+    3300026: z_
+    3300028: Z_Function
+<<<<<<< HEAD
+    3300030: ec_cilindro
+    3300032: ec_paraboloide
+    3300034: ejeY
+    3300036: paraboloide
+    3300038: plano
+=======
+>>>>>>> origin/master
+    4300000: Text_001
+    4300002: Text
+    4300004: Z_Function
+    4300006: ejeX_001
+    4300008: ejeY_001
+    4300010: centro
+    4300012: y_
+    4300014: x_
+    4300016: z_
+    4300018: ejeX
+    4300020: ejeZ
+    4300022: cilindro_final
+    4300024: cilindro_sobrante
+    4300026: planoXY
+    4300028: regla
+<<<<<<< HEAD
+    4300030: ec_paraboloide
+    4300032: ec_cilindro
+    4300034: paraboloide
+    4300036: ejeY
+    4300038: plano
+=======
+>>>>>>> origin/master
+    7400000: Default Take
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 319
+      wrapMode: 4
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: centro
+        weight: 1
+      - path: cilindro_final
+        weight: 1
+      - path: cilindro_sobrante
+        weight: 1
+      - path: ejeX
+        weight: 1
+      - path: ejeX_001
+        weight: 1
+      - path: ejeY_001
+        weight: 1
+      - path: ejeZ
+        weight: 1
+      - path: planoXY
+        weight: 1
+      - path: regla
+        weight: 1
+      - path: Text
+        weight: 1
+      - path: Text_001
+        weight: 1
+      - path: x_
+        weight: 1
+      - path: y_
+        weight: 1
+      - path: z_
+        weight: 1
+      - path: Z_Function
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

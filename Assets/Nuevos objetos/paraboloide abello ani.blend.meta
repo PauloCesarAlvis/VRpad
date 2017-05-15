@@ -1,0 +1,204 @@
+fileFormatVersion: 2
+guid: f3c6e52f778031a43ab7e0a98950c275
+timeCreated: 1489972147
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: centro
+    100002: ec
+    100004: ejeX
+    100006: ejeX_001
+    100008: ejeY_001
+    100010: ejeZ
+    100012: paraboloide
+    100014: //RootNode
+    100016: planoXY
+    100018: planoZY
+    100020: reglaXY
+    100022: reglaZY
+    100024: x_
+    100026: y_
+    100028: z_
+    400000: centro
+    400002: ec
+    400004: ejeX
+    400006: ejeX_001
+    400008: ejeY_001
+    400010: ejeZ
+    400012: paraboloide
+    400014: //RootNode
+    400016: planoXY
+    400018: planoZY
+    400020: reglaXY
+    400022: reglaZY
+    400024: x_
+    400026: y_
+    400028: z_
+    2300000: centro
+    2300002: ec
+    2300004: ejeX
+    2300006: ejeX_001
+    2300008: ejeY_001
+    2300010: ejeZ
+    2300012: paraboloide
+    2300014: planoXY
+    2300016: planoZY
+    2300018: reglaXY
+    2300020: reglaZY
+    2300022: x_
+    2300024: y_
+    2300026: z_
+    3300000: centro
+    3300002: ec
+    3300004: ejeX
+    3300006: ejeX_001
+    3300008: ejeY_001
+    3300010: ejeZ
+    3300012: paraboloide
+    3300014: planoXY
+    3300016: planoZY
+    3300018: reglaXY
+    3300020: reglaZY
+    3300022: x_
+    3300024: y_
+    3300026: z_
+    4300000: planoZY
+    4300002: reglaZY
+    4300004: paraboloide
+    4300006: ec
+    4300008: ejeX_001
+    4300010: ejeY_001
+    4300012: centro
+    4300014: y_
+    4300016: x_
+    4300018: z_
+    4300020: ejeX
+    4300022: ejeZ
+    4300024: planoXY
+    4300026: reglaXY
+    7400000: Default Take
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 179
+      wrapMode: 4
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: centro
+        weight: 1
+      - path: ec
+        weight: 1
+      - path: ejeX
+        weight: 1
+      - path: ejeX_001
+        weight: 1
+      - path: ejeY_001
+        weight: 1
+      - path: ejeZ
+        weight: 1
+      - path: paraboloide
+        weight: 1
+      - path: planoXY
+        weight: 1
+      - path: planoZY
+        weight: 1
+      - path: reglaXY
+        weight: 1
+      - path: reglaZY
+        weight: 1
+      - path: x_
+        weight: 1
+      - path: y_
+        weight: 1
+      - path: z_
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

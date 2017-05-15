@@ -1,0 +1,190 @@
+fileFormatVersion: 2
+guid: df9c888f1f02215438fa42274922464e
+timeCreated: 1492923542
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: abs_x_y
+    100002: centro
+    100004: circunferencia
+    100006: ec_asb_x_y
+    100008: ec_circunferencia
+    100010: ec_y_0
+    100012: //RootNode
+    100014: ejeX
+    100016: ejeY
+    100018: ejeZ
+    100020: planoXY
+    100022: regla
+    100024: solido_final
+    400000: abs_x_y
+    400002: centro
+    400004: circunferencia
+    400006: ec_asb_x_y
+    400008: ec_circunferencia
+    400010: ec_y_0
+    400012: //RootNode
+    400014: ejeX
+    400016: ejeY
+    400018: ejeZ
+    400020: planoXY
+    400022: regla
+    400024: solido_final
+    2300000: abs_x_y
+    2300002: centro
+    2300004: circunferencia
+    2300006: ec_asb_x_y
+    2300008: ec_circunferencia
+    2300010: ec_y_0
+    2300012: ejeX
+    2300014: ejeY
+    2300016: ejeZ
+    2300018: planoXY
+    2300020: regla
+    2300022: solido_final
+    3300000: abs_x_y
+    3300002: centro
+    3300004: circunferencia
+    3300006: ec_asb_x_y
+    3300008: ec_circunferencia
+    3300010: ec_y_0
+    3300012: ejeX
+    3300014: ejeY
+    3300016: ejeZ
+    3300018: planoXY
+    3300020: regla
+    3300022: solido_final
+    4300000: ec_circunferencia
+    4300002: abs_x_y
+    4300004: circunferencia
+    4300006: ejeY
+    4300008: centro
+    4300010: ejeX
+    4300012: ejeZ
+    4300014: planoXY
+    4300016: regla
+    4300018: solido_final
+    4300020: ec_y_0
+    4300022: ec_asb_x_y
+    7400000: Default Take
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 319
+      wrapMode: 4
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: abs_x_y
+        weight: 1
+      - path: centro
+        weight: 1
+      - path: circunferencia
+        weight: 1
+      - path: ec_asb_x_y
+        weight: 1
+      - path: ec_circunferencia
+        weight: 1
+      - path: ec_y_0
+        weight: 1
+      - path: ejeX
+        weight: 1
+      - path: ejeY
+        weight: 1
+      - path: ejeZ
+        weight: 1
+      - path: planoXY
+        weight: 1
+      - path: regla
+        weight: 1
+      - path: solido_final
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

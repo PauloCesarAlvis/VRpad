@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<COLLADA xmlns="http://www.collada.org/2005/11/COLLADASchema" version="1.4.1">
+  <asset>
+    <contributor>
+      <author>Blender User</author>
+      <authoring_tool>Blender 2.77.0 commit date:2016-04-05, commit time:18:12, hash:abf6f08</authoring_tool>
+    </contributor>
+    <created>2016-07-06T20:09:51</created>
+    <modified>2016-07-06T20:09:51</modified>
+    <unit name="meter" meter="1"/>
+    <up_axis>Z_UP</up_axis>
+  </asset>
+  <library_cameras>
+    <camera id="Camera-camera" name="Camera">
+      <optics>
+        <technique_common>
+          <perspective>
+            <xfov sid="xfov">49.13434</xfov>
+            <aspect_ratio>1.777778</aspect_ratio>
+            <znear sid="znear">0.1</znear>
+            <zfar sid="zfar">100</zfar>
+          </perspective>
+        </technique_common>
+      </optics>
+      <extra>
+        <technique profile="blender">
+          <YF_dofdist>0</YF_dofdist>
+          <shiftx>0</shiftx>
+          <shifty>0</shifty>
+        </technique>
+      </extra>
+    </camera>
+  </library_cameras>
+  <library_lights>
+    <light id="Lamp-light" name="Lamp">
+      <technique_common>
+        <point>
+          <color sid="color">1 1 1</color>
+          <constant_attenuation>1</constant_attenuation>
+          <linear_attenuation>0</linear_attenuation>
+          <quadratic_attenuation>0.00111109</quadratic_attenuation>
+        </point>
+      </technique_common>
+      <extra>
+        <technique profile="blender">
+          <adapt_thresh>0.000999987</adapt_thresh>
+          <area_shape>1</area_shape>
+          <area_size>0.1</area_size>
+          <area_sizey>0.1</area_sizey>
+          <area_sizez>1</area_sizez>
+          <atm_distance_factor>1</atm_distance_factor>
+          <atm_extinction_factor>1</atm_extinction_factor>
+          <atm_turbidity>2</atm_turbidity>
+          <att1>0</att1>
+          <att2>1</att2>
+          <backscattered_light>1</backscattered_light>
+          <bias>1</bias>
+          <blue>1</blue>
+          <buffers>1</buffers>
+          <bufflag>0</bufflag>
+          <bufsize>2880</bufsize>
+          <buftype>2</buftype>
+          <clipend>30.002</clipend>
+          <clipsta>1.000799</clipsta>
+          <compressthresh>0.04999995</compressthresh>
+          <dist sid="blender_dist">29.99998</dist>
+          <energy sid="blender_energy">1</energy>
+          <falloff_type>2</falloff_type>
+          <filtertype>0</filtertype>
+          <flag>0</flag>
+          <gamma sid="blender_gamma">1</gamma>
+          <green>1</green>
+          <halo_intensity sid="blnder_halo_intensity">1</halo_intensity>
+          <horizon_brightness>1</horizon_brightness>
+          <mode>8192</mode>
+          <ray_samp>1</ray_samp>
+          <ray_samp_method>1</ray_samp_method>
+          <ray_samp_type>0</ray_samp_type>
+          <ray_sampy>1</ray_sampy>
+          <ray_sampz>1</ray_sampz>
+          <red>1</red>
+          <samp>3</samp>
+          <shadhalostep>0</shadhalostep>
+          <shadow_b sid="blender_shadow_b">0</shadow_b>
+          <shadow_g sid="blender_shadow_g">0</shadow_g>
+          <shadow_r sid="blender_shadow_r">0</shadow_r>
+          <sky_colorspace>0</sky_colorspace>
+          <sky_exposure>1</sky_exposure>
+          <skyblendfac>1</skyblendfac>
+          <skyblendtype>1</skyblendtype>
+          <soft>3</soft>
+          <spotblend>0.15</spotblend>
+          <spotsize>75</spotsize>
+          <spread>1</spread>
+          <sun_brightness>1</sun_brightness>
+          <sun_effect_type>0</sun_effect_type>
+          <sun_intensity>1</sun_intensity>
+          <sun_size>1</sun_size>
+          <type>0</type>
+        </technique>
+      </extra>
+    </light>
+  </library_lights>
+  <library_images/>
+  <library_geometries>
+    <geometry id="Cone-mesh" name="Cone">
+      <mesh>
+        <source id="Cone-mesh-positions">
+          <float_array id="Cone-mesh-positions-array" count="99">0 0.9869712 -0.616095 0.1950903 0.9678767 -0.6139485 0.3826835 0.9113271 -0.6075918 0.5555703 0.8194956 -0.5972691 0.7071068 0.6959111 -0.5833769 0.8314697 0.545323 -0.5664493 0.9238795 0.3735182 -0.5471368 0.9807853 0.1870992 -0.5261815 1 -0.006769955 -0.5043886 0.0130642 -1.486788 1.397642 0.9807853 -0.2006392 -0.4825958 0.9238796 -0.3870582 -0.4616405 0.8314697 -0.5588631 -0.4423279 0.7071068 -0.7094513 -0.4254003 0.5555702 -0.8330358 -0.4115082 0.3826833 -0.9248674 -0.4011854 0.1950901 -0.981417 -0.3948287 -3.25841e-7 -2.703942 -0.4728141 -0.1950907 -2.684847 -0.4749605 -0.3826839 -0.9248671 -0.4011855 -0.5555707 -1.762433 -0.4115082 -0.7135559 -0.7094509 -0.4233775 -0.8380855 -0.5588626 -0.4390303 -0.9238799 -0.3870577 -0.4616405 -0.9807854 -0.2006385 -0.4825959 -1 -0.006769061 -0.5043887 -0.9807851 0.1871002 -0.5261816 -0.9238791 0.3735193 -0.5471369 -0.8314689 0.545324 -0.5664494 -0.7071059 0.695912 -0.583377 -0.5555691 0.8194963 -0.5972691 -0.3826821 0.9113277 -0.6075919 -0.1950888 0.967877 -0.6139486</float_array>
+          <technique_common>
+            <accessor source="#Cone-mesh-positions-array" count="33" stride="3">
+              <param name="X" type="float"/>
+              <param name="Y" type="float"/>
+              <param name="Z" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="Cone-mesh-normals">
+          <float_array id="Cone-mesh-normals-array" count="186">0.05319947 0.6305863 0.7742937 0.1603792 0.6185001 0.769244 0.2696305 0.5929144 0.7587832 0.3818761 0.5516067 0.741553 0.497254 0.4910584 0.7152624 0.6142253 0.4064148 0.6764277 0.7280424 0.2919624 0.6202519 0.8286416 0.1429656 0.5412154 0.899348 -0.04019397 0.4353823 0.919942 -0.2465538 0.3048244 0.8766079 -0.4533798 0.1612625 0.7721225 -0.6350513 0.02316826 0.6241189 -0.7757542 -0.0931726 0.4530753 -0.8731793 -0.1796681 0.2732045 -0.9327502 -0.2352365 0.9909896 -0.115322 0.06812125 -0.08767461 -0.8346579 0.5437457 -0.9772824 -0.1117165 0.1801072 0.9442836 -0.191617 -0.2676032 -0.9387785 -0.1372887 0.3159855 -0.7719951 -0.6345406 0.03717482 -0.8867699 -0.4164335 0.2005555 -0.9163435 -0.2440376 0.3174275 -0.8940649 -0.03844475 0.4462847 -0.8228759 0.1433649 0.549838 -0.7228429 0.2911017 0.6267041 -0.610138 0.4047439 0.6811124 -0.494396 0.4890739 0.7185955 -0.3801175 0.5497106 0.7438609 -0.2687284 0.5913878 0.7602931 -0.1600543 0.6175206 0.7700981 -0.05316293 0.6302497 0.7745703 1.16097e-6 -0.1117062 -0.9937413 3.23961e-7 -0.1117063 -0.9937413 1.90645e-7 -0.1117063 -0.9937413 0 -0.1117064 -0.9937413 0 -0.1117062 -0.9937413 0 -0.1117064 -0.9937413 0 -0.1117067 -0.9937413 0 -0.1117064 -0.9937413 4.7306e-7 -0.1117063 -0.9937413 0.01524734 0.04349881 -0.9989372 0.06605452 -0.001336872 -0.9978152 0.01524794 0.04349875 -0.9989372 0 -0.1117061 -0.9937413 0 -0.111706 -0.9937414 0 -0.1117064 -0.9937413 -3.11509e-7 -0.1117063 -0.9937413 0 -0.1117064 -0.9937413 -4.21368e-7 -0.1117063 -0.9937413 2.68446e-6 -0.1117062 -0.9937413 1.98756e-6 -0.1117066 -0.9937413 -0.08289968 -0.1706149 -0.9818443 -0.01757806 -0.1291394 -0.9914706 0 -0.1117063 -0.9937413 -8.42737e-7 -0.1117064 -0.9937413 0 -0.1117063 -0.9937413 -1.36853e-6 -0.1117064 -0.9937413 0 -0.1117063 -0.9937413 -4.7288e-7 -0.1117063 -0.9937413 0 -0.1117063 -0.9937413 -8.62681e-7 -0.1117063 -0.9937413</float_array>
+          <technique_common>
+            <accessor source="#Cone-mesh-normals-array" count="62" stride="3">
+              <param name="X" type="float"/>
+              <param name="Y" type="float"/>
+              <param name="Z" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <vertices id="Cone-mesh-vertices">
+          <input semantic="POSITION" source="#Cone-mesh-positions"/>
+        </vertices>
+        <polylist count="62">
+          <input semantic="VERTEX" source="#Cone-mesh-vertices" offset="0"/>
+          <input semantic="NORMAL" source="#Cone-mesh-normals" offset="1"/>
+          <vcount>3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 </vcount>
+          <p>0 0 9 0 1 0 1 1 9 1 2 1 2 2 9 2 3 2 3 3 9 3 4 3 4 4 9 4 5 4 5 5 9 5 6 5 6 6 9 6 7 6 7 7 9 7 8 7 8 8 9 8 10 8 10 9 9 9 11 9 11 10 9 10 12 10 12 11 9 11 13 11 13 12 9 12 14 12 14 13 9 13 15 13 15 14 9 14 16 14 16 15 9 15 17 15 17 16 9 16 18 16 18 17 9 17 19 17 19 18 9 18 20 18 20 19 9 19 21 19 21 20 9 20 22 20 22 21 9 21 23 21 23 22 9 22 24 22 24 23 9 23 25 23 25 24 9 24 26 24 26 25 9 25 27 25 27 26 9 26 28 26 28 27 9 27 29 27 29 28 9 28 30 28 30 29 9 29 31 29 31 30 9 30 32 30 32 31 9 31 0 31 28 32 29 32 23 32 32 33 0 33 19 33 1 34 16 34 19 34 3 35 4 35 15 35 5 36 6 36 13 36 7 37 8 37 10 37 10 38 11 38 7 38 12 39 13 39 6 39 14 40 15 40 4 40 16 41 17 41 18 41 19 42 20 42 21 42 16 43 18 43 19 43 13 44 14 44 5 44 7 45 11 45 12 45 4 46 5 46 14 46 0 47 1 47 19 47 30 48 31 48 23 48 28 49 23 49 24 49 26 50 27 50 24 50 24 51 25 51 26 51 22 52 23 52 21 52 19 53 21 53 23 53 15 54 16 54 3 54 6 55 7 55 12 55 31 56 32 56 19 56 27 57 28 57 24 57 23 58 31 58 19 58 16 59 2 59 3 59 2 60 16 60 1 60 29 61 30 61 23 61</p>
+        </polylist>
+      </mesh>
+    </geometry>
+  </library_geometries>
+  <library_controllers/>
+  <library_visual_scenes>
+    <visual_scene id="Scene" name="Scene">
+      <node id="Camera" name="Camera" type="NODE">
+        <matrix sid="transform">0.6858805 -0.3173701 0.6548619 7.481132 0.7276338 0.3124686 -0.6106656 -6.50764 -0.01081678 0.8953432 0.4452454 5.343665 0 0 0 1</matrix>
+        <instance_camera url="#Camera-camera"/>
+      </node>
+      <node id="Lamp" name="Lamp" type="NODE">
+        <matrix sid="transform">-0.2908646 -0.7711008 0.5663932 4.076245 0.9551712 -0.1998834 0.2183912 1.005454 -0.05518906 0.6045247 0.7946723 5.903862 0 0 0 1</matrix>
+        <instance_light url="#Lamp-light"/>
+      </node>
+      <node id="Cone" name="Cone" type="NODE">
+        <matrix sid="transform">1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</matrix>
+        <instance_geometry url="#Cone-mesh" name="Cone"/>
+      </node>
+    </visual_scene>
+  </library_visual_scenes>
+  <scene>
+    <instance_visual_scene url="#Scene"/>
+  </scene>
+</COLLADA>

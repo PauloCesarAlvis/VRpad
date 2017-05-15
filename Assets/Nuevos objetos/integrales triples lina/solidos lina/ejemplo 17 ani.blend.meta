@@ -1,0 +1,211 @@
+fileFormatVersion: 2
+guid: 89f10e4d776da9441916aed787e28ff0
+timeCreated: 1492923531
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: areaD
+    100002: circunferencia
+    100004: ec_parabola
+    100006: ec_x-2
+    100008: ec_x_2
+    100010: ec_x_2_y_2
+    100012: //RootNode
+    100014: ejeX
+    100016: ejeY
+    100018: ejeZ
+    100020: parabola
+    100022: planoXY
+    100024: recta1
+    100026: recta2
+    100028: regla
+    100030: solido_final
+    400000: areaD
+    400002: circunferencia
+    400004: ec_parabola
+    400006: ec_x-2
+    400008: ec_x_2
+    400010: ec_x_2_y_2
+    400012: //RootNode
+    400014: ejeX
+    400016: ejeY
+    400018: ejeZ
+    400020: parabola
+    400022: planoXY
+    400024: recta1
+    400026: recta2
+    400028: regla
+    400030: solido_final
+    2300000: areaD
+    2300002: circunferencia
+    2300004: ec_parabola
+    2300006: ec_x-2
+    2300008: ec_x_2
+    2300010: ec_x_2_y_2
+    2300012: ejeX
+    2300014: ejeY
+    2300016: ejeZ
+    2300018: parabola
+    2300020: planoXY
+    2300022: recta1
+    2300024: recta2
+    2300026: regla
+    2300028: solido_final
+    3300000: areaD
+    3300002: circunferencia
+    3300004: ec_parabola
+    3300006: ec_x-2
+    3300008: ec_x_2
+    3300010: ec_x_2_y_2
+    3300012: ejeX
+    3300014: ejeY
+    3300016: ejeZ
+    3300018: parabola
+    3300020: planoXY
+    3300022: recta1
+    3300024: recta2
+    3300026: regla
+    3300028: solido_final
+    4300000: ec_parabola
+    4300002: ec_x_2_y_2
+    4300004: parabola
+    4300006: recta2
+    4300008: recta1
+    4300010: circunferencia
+    4300012: ejeY
+    4300014: ejeX
+    4300016: ejeZ
+    4300018: planoXY
+    4300020: regla
+    4300022: areaD
+    4300024: solido_final
+    4300026: ec_x_2
+    4300028: ec_x-2
+    7400000: Default Take
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 499
+      wrapMode: 4
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: areaD
+        weight: 1
+      - path: circunferencia
+        weight: 1
+      - path: ec_parabola
+        weight: 1
+      - path: ec_x-2
+        weight: 1
+      - path: ec_x_2
+        weight: 1
+      - path: ec_x_2_y_2
+        weight: 1
+      - path: ejeX
+        weight: 1
+      - path: ejeY
+        weight: 1
+      - path: ejeZ
+        weight: 1
+      - path: parabola
+        weight: 1
+      - path: planoXY
+        weight: 1
+      - path: recta1
+        weight: 1
+      - path: recta2
+        weight: 1
+      - path: regla
+        weight: 1
+      - path: solido_final
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

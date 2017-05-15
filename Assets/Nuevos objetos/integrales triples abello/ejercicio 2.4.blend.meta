@@ -1,0 +1,246 @@
+fileFormatVersion: 2
+guid: 88589a8560c13e14ab12937b7954947d
+timeCreated: 1494263883
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: cuadrado
+    100002: //RootNode
+    100004: ejeX
+    100006: ejeY
+    100008: ejeZ
+    100010: planoXY
+    100012: planoXY_001
+    100014: planoZX
+    100016: planoZY
+    100018: regla
+    100020: solido_final
+    100022: solido_final_001
+    100024: solido_final_002
+    100026: y_
+    100028: Z_Function_000
+    100030: Z_Function_001
+    100032: parabolaA
+    100034: parabolaB
+    100036: proyeccionXY
+    100038: proyeccionZX
+    100040: proyeccionZY
+    100042: Text_001
+    100044: Text_002
+    400000: cuadrado
+    400002: //RootNode
+    400004: ejeX
+    400006: ejeY
+    400008: ejeZ
+    400010: planoXY
+    400012: planoXY_001
+    400014: planoZX
+    400016: planoZY
+    400018: regla
+    400020: solido_final
+    400022: solido_final_001
+    400024: solido_final_002
+    400026: y_
+    400028: Z_Function_000
+    400030: Z_Function_001
+    400032: parabolaA
+    400034: parabolaB
+    400036: proyeccionXY
+    400038: proyeccionZX
+    400040: proyeccionZY
+    400042: Text_001
+    400044: Text_002
+    2300000: cuadrado
+    2300002: ejeX
+    2300004: ejeY
+    2300006: ejeZ
+    2300008: planoXY
+    2300010: planoXY_001
+    2300012: planoZX
+    2300014: planoZY
+    2300016: regla
+    2300018: solido_final
+    2300020: solido_final_001
+    2300022: solido_final_002
+    2300024: y_
+    2300026: Z_Function_000
+    2300028: Z_Function_001
+    2300030: parabolaA
+    2300032: parabolaB
+    2300034: proyeccionXY
+    2300036: proyeccionZX
+    2300038: proyeccionZY
+    2300040: Text_001
+    2300042: Text_002
+    3300000: cuadrado
+    3300002: ejeX
+    3300004: ejeY
+    3300006: ejeZ
+    3300008: planoXY
+    3300010: planoXY_001
+    3300012: planoZX
+    3300014: planoZY
+    3300016: regla
+    3300018: solido_final
+    3300020: solido_final_001
+    3300022: solido_final_002
+    3300024: y_
+    3300026: Z_Function_000
+    3300028: Z_Function_001
+    3300030: parabolaA
+    3300032: parabolaB
+    3300034: proyeccionXY
+    3300036: proyeccionZX
+    3300038: proyeccionZY
+    3300040: Text_001
+    3300042: Text_002
+    4300000: solido_final_002
+    4300002: cuadrado
+    4300004: solido_final_001
+    4300006: Z_Function_000
+    4300008: Z_Function_001
+    4300010: ejeZ
+    4300012: ejeX
+    4300014: ejeY
+    4300016: planoXY
+    4300018: regla
+    4300020: y_
+    4300022: solido_final
+    4300024: planoXY_001
+    4300026: planoZX
+    4300028: planoZY
+    4300030: Text_002
+    4300032: Text_001
+    4300034: proyeccionXY
+    4300036: proyeccionZX
+    4300038: proyeccionZY
+    4300040: parabolaB
+    4300042: parabolaA
+    7400000: Default Take
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 539
+      wrapMode: 4
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: cuadrado
+        weight: 1
+      - path: ejeX
+        weight: 1
+      - path: ejeY
+        weight: 1
+      - path: ejeZ
+        weight: 1
+      - path: planoXY
+        weight: 1
+      - path: planoXY_001
+        weight: 1
+      - path: planoZX
+        weight: 1
+      - path: planoZY
+        weight: 1
+      - path: regla
+        weight: 1
+      - path: solido_final
+        weight: 1
+      - path: solido_final_001
+        weight: 1
+      - path: solido_final_002
+        weight: 1
+      - path: y_
+        weight: 1
+      - path: Z_Function_000
+        weight: 1
+      - path: Z_Function_001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

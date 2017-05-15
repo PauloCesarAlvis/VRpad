@@ -1,0 +1,218 @@
+fileFormatVersion: 2
+guid: 56befc078ee028b4eb27ea0417aaa889
+timeCreated: 1494390389
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: cilindroA
+    100002: cilindroB
+    100004: //RootNode
+    100006: ejeX
+    100008: ejeXY
+    100010: ejeY
+    100012: ejeZ
+    100014: ejeZX
+    100016: ejeZY
+    100018: plano
+    100020: proyeccionXY
+    100022: proyeccionXZ
+    100024: proyeccionYX
+    100026: regla
+    100028: solido_final
+    100030: Text
+    100032: Text_001
+    400000: cilindroA
+    400002: cilindroB
+    400004: //RootNode
+    400006: ejeX
+    400008: ejeXY
+    400010: ejeY
+    400012: ejeZ
+    400014: ejeZX
+    400016: ejeZY
+    400018: plano
+    400020: proyeccionXY
+    400022: proyeccionXZ
+    400024: proyeccionYX
+    400026: regla
+    400028: solido_final
+    400030: Text
+    400032: Text_001
+    2300000: cilindroA
+    2300002: cilindroB
+    2300004: ejeX
+    2300006: ejeXY
+    2300008: ejeY
+    2300010: ejeZ
+    2300012: ejeZX
+    2300014: ejeZY
+    2300016: plano
+    2300018: proyeccionXY
+    2300020: proyeccionXZ
+    2300022: proyeccionYX
+    2300024: regla
+    2300026: solido_final
+    2300028: Text
+    2300030: Text_001
+    3300000: cilindroA
+    3300002: cilindroB
+    3300004: ejeX
+    3300006: ejeXY
+    3300008: ejeY
+    3300010: ejeZ
+    3300012: ejeZX
+    3300014: ejeZY
+    3300016: plano
+    3300018: proyeccionXY
+    3300020: proyeccionXZ
+    3300022: proyeccionYX
+    3300024: regla
+    3300026: solido_final
+    3300028: Text
+    3300030: Text_001
+    4300000: Text
+    4300002: Text_001
+    4300004: proyeccionXY
+    4300006: proyeccionYX
+    4300008: proyeccionXZ
+    4300010: cilindroB
+    4300012: cilindroA
+    4300014: ejeXY
+    4300016: ejeZ
+    4300018: ejeX
+    4300020: ejeY
+    4300022: plano
+    4300024: regla
+    4300026: ejeZX
+    4300028: ejeZY
+    4300030: solido_final
+    7400000: Default Take
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 549
+      wrapMode: 4
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: cilindroA
+        weight: 1
+      - path: cilindroB
+        weight: 1
+      - path: ejeX
+        weight: 1
+      - path: ejeXY
+        weight: 1
+      - path: ejeY
+        weight: 1
+      - path: ejeZ
+        weight: 1
+      - path: ejeZX
+        weight: 1
+      - path: ejeZY
+        weight: 1
+      - path: plano
+        weight: 1
+      - path: proyeccionXY
+        weight: 1
+      - path: proyeccionXZ
+        weight: 1
+      - path: proyeccionYX
+        weight: 1
+      - path: regla
+        weight: 1
+      - path: solido_final
+        weight: 1
+      - path: Text
+        weight: 1
+      - path: Text_001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,226 @@
+fileFormatVersion: 2
+guid: 9d5aea2a8b0879243ac78c19d9382267
+timeCreated: 1492923538
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: centro
+    100002: ec_parabola
+    100004: ec_plano_3x_6
+    100006: ec_x_y_1
+    100008: ec_y_3
+    100010: //RootNode
+    100012: ejeX
+    100014: ejeY
+    100016: ejeZ
+    100018: parabola
+    100020: plano_3x_6
+    100022: plano_x_y_1
+    100024: plano_y_3
+    100026: planoXY
+    100028: regla
+    100030: solido_final
+    100032: ejeX_001
+    100034: ejeY_001
+    100036: ejeY_002
+    400000: centro
+    400002: ec_parabola
+    400004: ec_plano_3x_6
+    400006: ec_x_y_1
+    400008: ec_y_3
+    400010: //RootNode
+    400012: ejeX
+    400014: ejeY
+    400016: ejeZ
+    400018: parabola
+    400020: plano_3x_6
+    400022: plano_x_y_1
+    400024: plano_y_3
+    400026: planoXY
+    400028: regla
+    400030: solido_final
+    400032: ejeX_001
+    400034: ejeY_001
+    400036: ejeY_002
+    2300000: centro
+    2300002: ec_parabola
+    2300004: ec_plano_3x_6
+    2300006: ec_x_y_1
+    2300008: ec_y_3
+    2300010: ejeX
+    2300012: ejeY
+    2300014: ejeZ
+    2300016: parabola
+    2300018: plano_3x_6
+    2300020: plano_x_y_1
+    2300022: plano_y_3
+    2300024: planoXY
+    2300026: regla
+    2300028: solido_final
+    2300030: ejeX_001
+    2300032: ejeY_001
+    2300034: ejeY_002
+    3300000: centro
+    3300002: ec_parabola
+    3300004: ec_plano_3x_6
+    3300006: ec_x_y_1
+    3300008: ec_y_3
+    3300010: ejeX
+    3300012: ejeY
+    3300014: ejeZ
+    3300016: parabola
+    3300018: plano_3x_6
+    3300020: plano_x_y_1
+    3300022: plano_y_3
+    3300024: planoXY
+    3300026: regla
+    3300028: solido_final
+    3300030: ejeX_001
+    3300032: ejeY_001
+    3300034: ejeY_002
+    4300000: ec_parabola
+    4300002: ec_y_3
+    4300004: plano_3x_6
+    4300006: plano_y_3
+    4300008: plano_x_y_1
+    4300010: parabola
+    4300012: centro
+    4300014: ejeX
+    4300016: ejeY
+    4300018: ejeZ
+    4300020: planoXY
+    4300022: regla
+    4300024: solido_final
+    4300026: ec_plano_3x_6
+    4300028: ec_x_y_1
+    4300030: ejeY_002
+    4300032: ejeY_001
+    4300034: ejeX_001
+    7400000: Default Take
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 489
+      wrapMode: 4
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: centro
+        weight: 1
+      - path: ec_parabola
+        weight: 1
+      - path: ec_plano_3x_6
+        weight: 1
+      - path: ec_x_y_1
+        weight: 1
+      - path: ec_y_3
+        weight: 1
+      - path: ejeX
+        weight: 1
+      - path: ejeY
+        weight: 1
+      - path: ejeZ
+        weight: 1
+      - path: parabola
+        weight: 1
+      - path: plano_3x_6
+        weight: 1
+      - path: plano_x_y_1
+        weight: 1
+      - path: plano_y_3
+        weight: 1
+      - path: planoXY
+        weight: 1
+      - path: regla
+        weight: 1
+      - path: solido_final
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

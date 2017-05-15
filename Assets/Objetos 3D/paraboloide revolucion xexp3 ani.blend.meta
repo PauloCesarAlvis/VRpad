@@ -1,0 +1,225 @@
+fileFormatVersion: 2
+guid: 93f35c2a0cf48ff468f1c4863768d8b8
+<<<<<<< HEAD
+timeCreated: 1494869462
+=======
+timeCreated: 1488418850
+>>>>>>> origin/master
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+<<<<<<< HEAD
+    100000: ecuacion
+=======
+    100000: centro
+>>>>>>> origin/master
+    100002: ejeX
+    100004: ejeY
+    100006: ejeZ
+    100008: Function_final
+    100010: Function_giratoria
+    100012: //RootNode
+<<<<<<< HEAD
+    100014: plano
+    100016: regla
+    400000: ecuacion
+=======
+    100014: Text
+    100016: x_
+    100018: y_
+    100020: z_
+    400000: centro
+>>>>>>> origin/master
+    400002: ejeX
+    400004: ejeY
+    400006: ejeZ
+    400008: Function_final
+    400010: Function_giratoria
+    400012: //RootNode
+<<<<<<< HEAD
+    400014: plano
+    400016: regla
+    2300000: ecuacion
+=======
+    400014: Text
+    400016: x_
+    400018: y_
+    400020: z_
+    2300000: centro
+>>>>>>> origin/master
+    2300002: ejeX
+    2300004: ejeY
+    2300006: ejeZ
+    2300008: Function_final
+    2300010: Function_giratoria
+<<<<<<< HEAD
+    2300012: plano
+    2300014: regla
+    3300000: ecuacion
+=======
+    2300012: Text
+    2300014: x_
+    2300016: y_
+    2300018: z_
+    3300000: centro
+>>>>>>> origin/master
+    3300002: ejeX
+    3300004: ejeY
+    3300006: ejeZ
+    3300008: Function_final
+    3300010: Function_giratoria
+<<<<<<< HEAD
+    3300012: plano
+    3300014: regla
+    4300000: ejeX
+    4300002: ecuacion
+    4300004: Function_final
+    4300006: Function_giratoria
+    4300008: ejeY
+    4300010: ejeZ
+    4300012: plano
+    4300014: regla
+=======
+    3300012: Text
+    3300014: x_
+    3300016: y_
+    3300018: z_
+    4300000: Function_final
+    4300002: Text
+    4300004: Function_giratoria
+    4300006: ejeY
+    4300008: centro
+    4300010: y_
+    4300012: x_
+    4300014: z_
+    4300016: ejeX
+    4300018: ejeZ
+>>>>>>> origin/master
+    7400000: Default Take
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 269
+      wrapMode: 4
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+<<<<<<< HEAD
+      - path: ecuacion
+=======
+      - path: centro
+>>>>>>> origin/master
+        weight: 1
+      - path: ejeX
+        weight: 1
+      - path: ejeY
+        weight: 1
+      - path: ejeZ
+        weight: 1
+      - path: Function_final
+        weight: 1
+      - path: Function_giratoria
+        weight: 1
+<<<<<<< HEAD
+      - path: plano
+        weight: 1
+      - path: regla
+=======
+      - path: Text
+        weight: 1
+      - path: x_
+        weight: 1
+      - path: y_
+        weight: 1
+      - path: z_
+>>>>>>> origin/master
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

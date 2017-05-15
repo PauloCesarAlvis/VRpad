@@ -1,0 +1,295 @@
+fileFormatVersion: 2
+guid: ec7009b459c5679438d2cd894b6d6a09
+timeCreated: 1488937977
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: tablero
+    100004: Text
+    100006: Text_001
+    100008: Text_002
+    100010: Text_003
+    100012: Text_004
+    100014: Text_005
+    100016: Text_006
+    100018: Text_007
+    100020: Text_008
+    100022: Text_009
+    100024: Text_010
+    100026: Z_Function_1
+    100028: Z_Function_10
+    100030: Z_Function_11
+    100032: Z_Function_12
+    100034: Z_Function_13
+    100036: Z_Function_14
+    100038: Z_Function_15
+    100040: Z_Function_2
+    100042: Z_Function_3
+    100044: Z_Function_4
+    100046: Z_Function_5
+    100048: Z_Function_6
+    100050: Z_Function_7
+    100052: Z_Function_8
+    100054: Z_Function_9
+    400000: //RootNode
+    400002: tablero
+    400004: Text
+    400006: Text_001
+    400008: Text_002
+    400010: Text_003
+    400012: Text_004
+    400014: Text_005
+    400016: Text_006
+    400018: Text_007
+    400020: Text_008
+    400022: Text_009
+    400024: Text_010
+    400026: Z_Function_1
+    400028: Z_Function_10
+    400030: Z_Function_11
+    400032: Z_Function_12
+    400034: Z_Function_13
+    400036: Z_Function_14
+    400038: Z_Function_15
+    400040: Z_Function_2
+    400042: Z_Function_3
+    400044: Z_Function_4
+    400046: Z_Function_5
+    400048: Z_Function_6
+    400050: Z_Function_7
+    400052: Z_Function_8
+    400054: Z_Function_9
+    2300000: tablero
+    2300002: Text
+    2300004: Text_001
+    2300006: Text_002
+    2300008: Text_003
+    2300010: Text_004
+    2300012: Text_005
+    2300014: Text_006
+    2300016: Text_007
+    2300018: Text_008
+    2300020: Text_009
+    2300022: Text_010
+    2300024: Z_Function_1
+    2300026: Z_Function_10
+    2300028: Z_Function_11
+    2300030: Z_Function_12
+    2300032: Z_Function_13
+    2300034: Z_Function_14
+    2300036: Z_Function_15
+    2300038: Z_Function_2
+    2300040: Z_Function_3
+    2300042: Z_Function_4
+    2300044: Z_Function_5
+    2300046: Z_Function_6
+    2300048: Z_Function_7
+    2300050: Z_Function_8
+    2300052: Z_Function_9
+    3300000: tablero
+    3300002: Text
+    3300004: Text_001
+    3300006: Text_002
+    3300008: Text_003
+    3300010: Text_004
+    3300012: Text_005
+    3300014: Text_006
+    3300016: Text_007
+    3300018: Text_008
+    3300020: Text_009
+    3300022: Text_010
+    3300024: Z_Function_1
+    3300026: Z_Function_10
+    3300028: Z_Function_11
+    3300030: Z_Function_12
+    3300032: Z_Function_13
+    3300034: Z_Function_14
+    3300036: Z_Function_15
+    3300038: Z_Function_2
+    3300040: Z_Function_3
+    3300042: Z_Function_4
+    3300044: Z_Function_5
+    3300046: Z_Function_6
+    3300048: Z_Function_7
+    3300050: Z_Function_8
+    3300052: Z_Function_9
+    4300000: Text_010
+    4300002: Text_009
+    4300004: Text_008
+    4300006: Text_007
+    4300008: Text_006
+    4300010: Text_005
+    4300012: Text_004
+    4300014: Text_003
+    4300016: Z_Function_10
+    4300018: Z_Function_15
+    4300020: Z_Function_14
+    4300022: Z_Function_13
+    4300024: Z_Function_12
+    4300026: Z_Function_11
+    4300028: Z_Function_9
+    4300030: Z_Function_1
+    4300032: Z_Function_2
+    4300034: Z_Function_3
+    4300036: Z_Function_4
+    4300038: Z_Function_5
+    4300040: Z_Function_6
+    4300042: Z_Function_7
+    4300044: Z_Function_8
+    4300046: Text_002
+    4300048: Text_001
+    4300050: Text
+    4300052: tablero
+    7400000: Default Take
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 909
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: tablero
+        weight: 1
+      - path: Text
+        weight: 1
+      - path: Text_001
+        weight: 1
+      - path: Text_002
+        weight: 1
+      - path: Text_003
+        weight: 1
+      - path: Text_004
+        weight: 1
+      - path: Text_005
+        weight: 1
+      - path: Text_006
+        weight: 1
+      - path: Text_007
+        weight: 1
+      - path: Text_008
+        weight: 1
+      - path: Text_009
+        weight: 1
+      - path: Text_010
+        weight: 1
+      - path: Z_Function_1
+        weight: 1
+      - path: Z_Function_2
+        weight: 1
+      - path: Z_Function_3
+        weight: 1
+      - path: Z_Function_4
+        weight: 1
+      - path: Z_Function_5
+        weight: 1
+      - path: Z_Function_6
+        weight: 1
+      - path: Z_Function_7
+        weight: 1
+      - path: Z_Function_8
+        weight: 1
+      - path: Z_Function_9
+        weight: 1
+      - path: Z_Function_10
+        weight: 1
+      - path: Z_Function_11
+        weight: 1
+      - path: Z_Function_12
+        weight: 1
+      - path: Z_Function_13
+        weight: 1
+      - path: Z_Function_14
+        weight: 1
+      - path: Z_Function_15
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

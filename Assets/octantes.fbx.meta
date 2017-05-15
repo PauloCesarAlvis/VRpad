@@ -1,0 +1,205 @@
+fileFormatVersion: 2
+guid: 5150961e341b3cd4d985c8c1c52cc207
+timeCreated: 1478568369
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ejeX
+    100002: ejeY
+    100004: ejeZ
+    100006: Lamp
+    100008: Lamp.001
+    100010: Lamp.002
+    100012: Lamp.003
+    100014: Lamp.004
+    100016: Lamp.005
+    100018: //RootNode
+    100020: PlanoXY
+    100022: PlanoXZ
+    100024: PlanoYZ
+    100026: Texto
+    100028: Texto.001
+    100030: Texto.002
+    100032: Texto.003
+    100034: Texto.004
+    100036: Texto.005
+    100038: Texto.006
+    100040: Texto.007
+    100042: Texto.008
+    100044: Texto.009
+    100046: Texto.010
+    100048: Texto.011
+    100050: Texto.012
+    100052: Texto.013
+    100054: Texto.014
+    100056: Texto.015
+    100058: Texto.016
+    100060: Z Function
+    400000: ejeX
+    400002: ejeY
+    400004: ejeZ
+    400006: Lamp
+    400008: Lamp.001
+    400010: Lamp.002
+    400012: Lamp.003
+    400014: Lamp.004
+    400016: Lamp.005
+    400018: //RootNode
+    400020: PlanoXY
+    400022: PlanoXZ
+    400024: PlanoYZ
+    400026: Texto
+    400028: Texto.001
+    400030: Texto.002
+    400032: Texto.003
+    400034: Texto.004
+    400036: Texto.005
+    400038: Texto.006
+    400040: Texto.007
+    400042: Texto.008
+    400044: Texto.009
+    400046: Texto.010
+    400048: Texto.011
+    400050: Texto.012
+    400052: Texto.013
+    400054: Texto.014
+    400056: Texto.015
+    400058: Texto.016
+    400060: Z Function
+    2300000: ejeX
+    2300002: ejeY
+    2300004: ejeZ
+    2300006: PlanoXY
+    2300008: PlanoXZ
+    2300010: PlanoYZ
+    2300012: Texto
+    2300014: Texto.001
+    2300016: Texto.002
+    2300018: Texto.003
+    2300020: Texto.004
+    2300022: Texto.005
+    2300024: Texto.006
+    2300026: Texto.007
+    2300028: Texto.008
+    2300030: Texto.009
+    2300032: Texto.010
+    2300034: Texto.011
+    2300036: Texto.012
+    2300038: Texto.013
+    2300040: Texto.014
+    2300042: Texto.015
+    2300044: Texto.016
+    2300046: Z Function
+    3300000: ejeX
+    3300002: ejeY
+    3300004: ejeZ
+    3300006: PlanoXY
+    3300008: PlanoXZ
+    3300010: PlanoYZ
+    3300012: Texto
+    3300014: Texto.001
+    3300016: Texto.002
+    3300018: Texto.003
+    3300020: Texto.004
+    3300022: Texto.005
+    3300024: Texto.006
+    3300026: Texto.007
+    3300028: Texto.008
+    3300030: Texto.009
+    3300032: Texto.010
+    3300034: Texto.011
+    3300036: Texto.012
+    3300038: Texto.013
+    3300040: Texto.014
+    3300042: Texto.015
+    3300044: Texto.016
+    3300046: Z Function
+    4300000: Z Function
+    4300002: Texto.016
+    4300004: Texto.015
+    4300006: Texto.014
+    4300008: Texto.013
+    4300010: Texto.012
+    4300012: Texto.011
+    4300014: Texto.010
+    4300016: Texto.009
+    4300018: Texto.008
+    4300020: Texto.007
+    4300022: Texto.006
+    4300024: Texto.005
+    4300026: Texto.004
+    4300028: Texto.003
+    4300030: Texto.002
+    4300032: Texto.001
+    4300034: Texto
+    4300036: PlanoXZ
+    4300038: PlanoYZ
+    4300040: PlanoXY
+    4300042: ejeY
+    4300044: ejeX
+    4300046: ejeZ
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,218 @@
+fileFormatVersion: 2
+guid: 535ad78babb87d9439da9ec7c70ad424
+timeCreated: 1492923523
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: cono_in
+    100002: cono_out
+    100004: ec_cono_in
+    100006: ec_cono_out
+    100008: ec_z_4
+    100010: //RootNode
+    100012: ejeX
+    100014: ejeXY
+    100016: ejeY
+    100018: ejeZ
+    100020: planoXY
+    100022: PlanoZ_4
+    100024: planoZX
+    100026: planoZY
+    100028: proyeccionXY
+    100030: regla
+    100032: solido_final
+    400000: cono_in
+    400002: cono_out
+    400004: ec_cono_in
+    400006: ec_cono_out
+    400008: ec_z_4
+    400010: //RootNode
+    400012: ejeX
+    400014: ejeXY
+    400016: ejeY
+    400018: ejeZ
+    400020: planoXY
+    400022: PlanoZ_4
+    400024: planoZX
+    400026: planoZY
+    400028: proyeccionXY
+    400030: regla
+    400032: solido_final
+    2300000: cono_in
+    2300002: cono_out
+    2300004: ec_cono_in
+    2300006: ec_cono_out
+    2300008: ec_z_4
+    2300010: ejeX
+    2300012: ejeXY
+    2300014: ejeY
+    2300016: ejeZ
+    2300018: planoXY
+    2300020: PlanoZ_4
+    2300022: planoZX
+    2300024: planoZY
+    2300026: proyeccionXY
+    2300028: regla
+    2300030: solido_final
+    3300000: cono_in
+    3300002: cono_out
+    3300004: ec_cono_in
+    3300006: ec_cono_out
+    3300008: ec_z_4
+    3300010: ejeX
+    3300012: ejeXY
+    3300014: ejeY
+    3300016: ejeZ
+    3300018: planoXY
+    3300020: PlanoZ_4
+    3300022: planoZX
+    3300024: planoZY
+    3300026: proyeccionXY
+    3300028: regla
+    3300030: solido_final
+    4300000: ec_cono_out
+    4300002: ec_cono_in
+    4300004: proyeccionXY
+    4300006: planoZY
+    4300008: planoZX
+    4300010: PlanoZ_4
+    4300012: cono_out
+    4300014: cono_in
+    4300016: ejeZ
+    4300018: ejeX
+    4300020: ejeY
+    4300022: planoXY
+    4300024: regla
+    4300026: ec_z_4
+    4300028: solido_final
+    4300030: ejeXY
+    7400000: Default Take
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 449
+      wrapMode: 4
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: cono_in
+        weight: 1
+      - path: cono_out
+        weight: 1
+      - path: ec_cono_in
+        weight: 1
+      - path: ec_cono_out
+        weight: 1
+      - path: ec_z_4
+        weight: 1
+      - path: ejeX
+        weight: 1
+      - path: ejeXY
+        weight: 1
+      - path: ejeY
+        weight: 1
+      - path: ejeZ
+        weight: 1
+      - path: planoXY
+        weight: 1
+      - path: PlanoZ_4
+        weight: 1
+      - path: planoZX
+        weight: 1
+      - path: planoZY
+        weight: 1
+      - path: proyeccionXY
+        weight: 1
+      - path: regla
+        weight: 1
+      - path: solido_final
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

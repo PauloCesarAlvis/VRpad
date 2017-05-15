@@ -1,0 +1,225 @@
+fileFormatVersion: 2
+guid: 00e55ee94f3fc3144bcf76d0aae0cf82
+timeCreated: 1492923508
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: cilindro
+    100002: //RootNode
+    100004: ejeXY
+    100006: ejeXYZ
+    100008: ejeXZ
+    100010: ejeYZ
+    100012: paraboloide
+    100014: planoXY
+    100016: regla
+    100018: solido_final
+    100020: solido_sobrante
+    100022: Text_002
+    100024: Text_003
+<<<<<<< HEAD
+    100026: ec_cilindro
+    100028: ec_parabolide
+    100030: ejeX_001
+    100032: ejeY_002
+=======
+>>>>>>> origin/master
+    400000: cilindro
+    400002: //RootNode
+    400004: ejeXY
+    400006: ejeXYZ
+    400008: ejeXZ
+    400010: ejeYZ
+    400012: paraboloide
+    400014: planoXY
+    400016: regla
+    400018: solido_final
+    400020: solido_sobrante
+    400022: Text_002
+    400024: Text_003
+<<<<<<< HEAD
+    400026: ec_cilindro
+    400028: ec_parabolide
+    400030: ejeX_001
+    400032: ejeY_002
+=======
+>>>>>>> origin/master
+    2300000: cilindro
+    2300002: ejeXY
+    2300004: ejeXYZ
+    2300006: ejeXZ
+    2300008: ejeYZ
+    2300010: paraboloide
+    2300012: planoXY
+    2300014: regla
+    2300016: solido_final
+    2300018: solido_sobrante
+    2300020: Text_002
+    2300022: Text_003
+<<<<<<< HEAD
+    2300024: ec_cilindro
+    2300026: ec_parabolide
+    2300028: ejeX_001
+    2300030: ejeY_002
+=======
+>>>>>>> origin/master
+    3300000: cilindro
+    3300002: ejeXY
+    3300004: ejeXYZ
+    3300006: ejeXZ
+    3300008: ejeYZ
+    3300010: paraboloide
+    3300012: planoXY
+    3300014: regla
+    3300016: solido_final
+    3300018: solido_sobrante
+    3300020: Text_002
+    3300022: Text_003
+<<<<<<< HEAD
+    3300024: ec_cilindro
+    3300026: ec_parabolide
+    3300028: ejeX_001
+    3300030: ejeY_002
+=======
+>>>>>>> origin/master
+    4300000: Text_003
+    4300002: Text_002
+    4300004: ejeXZ
+    4300006: ejeXY
+    4300008: ejeYZ
+    4300010: solido_sobrante
+    4300012: paraboloide
+    4300014: cilindro
+    4300016: ejeXYZ
+    4300018: planoXY
+    4300020: regla
+    4300022: solido_final
+<<<<<<< HEAD
+    4300024: ec_parabolide
+    4300026: ec_cilindro
+    4300028: ejeX_001
+    4300030: ejeY_002
+=======
+>>>>>>> origin/master
+    7400000: Default Take
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 479
+      wrapMode: 4
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: cilindro
+        weight: 1
+      - path: ejeXY
+        weight: 1
+      - path: ejeXYZ
+        weight: 1
+      - path: ejeXZ
+        weight: 1
+      - path: ejeYZ
+        weight: 1
+      - path: paraboloide
+        weight: 1
+      - path: planoXY
+        weight: 1
+      - path: regla
+        weight: 1
+      - path: solido_final
+        weight: 1
+      - path: solido_sobrante
+        weight: 1
+      - path: Text_002
+        weight: 1
+      - path: Text_003
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

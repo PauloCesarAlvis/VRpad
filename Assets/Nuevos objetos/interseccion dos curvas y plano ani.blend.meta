@@ -1,0 +1,238 @@
+fileFormatVersion: 2
+guid: be74393afda90cb4dbb4335dd6ae8395
+timeCreated: 1489973116
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: centro
+    100002: ec_A
+    100004: ec_B
+    100006: ec_plano
+    100008: ejeX
+    100010: ejeY
+    100012: ejeZ
+    100014: funcion_A
+    100016: funcion_B
+    100018: //RootNode
+    100020: plano
+    100022: planoXY
+    100024: regla
+    100026: solido_final
+    100028: x_
+    100030: y_
+    100032: z_
+<<<<<<< HEAD
+    100034: plano_001
+=======
+>>>>>>> origin/master
+    400000: centro
+    400002: ec_A
+    400004: ec_B
+    400006: ec_plano
+    400008: ejeX
+    400010: ejeY
+    400012: ejeZ
+    400014: funcion_A
+    400016: funcion_B
+    400018: //RootNode
+    400020: plano
+    400022: planoXY
+    400024: regla
+    400026: solido_final
+    400028: x_
+    400030: y_
+    400032: z_
+<<<<<<< HEAD
+    400034: plano_001
+=======
+>>>>>>> origin/master
+    2300000: centro
+    2300002: ec_A
+    2300004: ec_B
+    2300006: ec_plano
+    2300008: ejeX
+    2300010: ejeY
+    2300012: ejeZ
+    2300014: funcion_A
+    2300016: funcion_B
+    2300018: plano
+    2300020: planoXY
+    2300022: regla
+    2300024: solido_final
+    2300026: x_
+    2300028: y_
+    2300030: z_
+<<<<<<< HEAD
+    2300032: plano_001
+=======
+>>>>>>> origin/master
+    3300000: centro
+    3300002: ec_A
+    3300004: ec_B
+    3300006: ec_plano
+    3300008: ejeX
+    3300010: ejeY
+    3300012: ejeZ
+    3300014: funcion_A
+    3300016: funcion_B
+    3300018: plano
+    3300020: planoXY
+    3300022: regla
+    3300024: solido_final
+    3300026: x_
+    3300028: y_
+    3300030: z_
+<<<<<<< HEAD
+    3300032: plano_001
+=======
+>>>>>>> origin/master
+    4300000: ec_plano
+    4300002: ec_A
+    4300004: ec_B
+    4300006: plano
+    4300008: funcion_A
+    4300010: funcion_B
+    4300012: ejeX
+    4300014: ejeY
+    4300016: centro
+    4300018: y_
+    4300020: x_
+    4300022: z_
+    4300024: ejeZ
+    4300026: solido_final
+    4300028: planoXY
+    4300030: regla
+<<<<<<< HEAD
+    4300032: plano_001
+=======
+>>>>>>> origin/master
+    7400000: Default Take
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 399
+      wrapMode: 4
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: centro
+        weight: 1
+      - path: ec_A
+        weight: 1
+      - path: ec_B
+        weight: 1
+      - path: ec_plano
+        weight: 1
+      - path: ejeX
+        weight: 1
+      - path: ejeY
+        weight: 1
+      - path: ejeZ
+        weight: 1
+      - path: funcion_A
+        weight: 1
+      - path: funcion_B
+        weight: 1
+      - path: plano
+        weight: 1
+      - path: planoXY
+        weight: 1
+      - path: regla
+        weight: 1
+      - path: solido_final
+        weight: 1
+      - path: x_
+        weight: 1
+      - path: y_
+        weight: 1
+      - path: z_
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
